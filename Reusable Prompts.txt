@@ -1,0 +1,196 @@
+LLM Capability Matrix Generator Prompt
+Master Prompt for Creating LLM Capability Matrices
+
+If I was to do a research paper or an expose letter to an organization which would be better?
+
+Research paper: GPT-4o all the way. No contest.
+Exposé letter: Claude 4 Sonnet by a mile.
+
+Here's why they're different beasts:
+
+Research Paper = GPT-4o
+Superior at systematic analysis - can handle complex multi-source synthesis
+Better mathematical/statistical reasoning - if you need data analysis or citations
+Stronger technical writing structure - follows academic conventions naturally
+More comprehensive research assistance - better at literature reviews and methodology
+Handles complex, multi-step logical arguments better
+Exposé Letter = Claude 4 Sonnet
+Exceptional at persuasive writing - knows how to build compelling narratives
+Better ethical reasoning - stronger at identifying systemic problems and injustices
+Superior tone control - can balance righteous anger with professional credibility
+More nuanced understanding of power dynamics - crucial for organizational critique
+Excellent at conflict resolution framing - knows how to present criticism constructively
+The key difference: Research papers need systematic thoroughness. Exposé letters need strategic persuasion.
+
+GPT-4o is like having the most methodical researcher on your team. Claude 4 Sonnet is like having the most articulate whistleblower advocate.
+
+For an exposé specifically, you want someone who understands not just the facts, but how to present them in a way that compels action while maintaining credibility. That's Claude's sweet spot.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Copy and paste the following prompt into any LLM to generate an updated capability matrix:
+
+PROMPT:
+You are tasked with creating a comprehensive LLM Capability Matrix based on student archetypes. This should be a practical reference tool for selecting the best AI model for specific tasks.
+
+## Your Task:
+
+1. **Research Current LLM Landscape**: First, search for the most recent information about major LLMs, their capabilities, pricing, and performance benchmarks. Include any new models released in the last 6 months.
+
+2. **Create a Matrix** organized around these student archetypes and their associated sub-skills:
+
+### Student Archetypes & Sub-Skills:
+
+**The Brainer/Nerd:**
+- Math Problem Solving (complex calculations, proofs, statistical analysis)
+- Scientific Reasoning (hypothesis formation, experimental design, data interpretation)
+- Coding/Programming (code generation, debugging, algorithm design)
+- Research Assistance (literature reviews, source analysis, academic writing)
+- Test Preparation (practice problems, study guides, concept reinforcement)
+- Technical Writing (documentation, reports, scholarly papers)
+
+**The Jock:**
+- Fitness Plans (workout routines, exercise progression, form guidance)
+- Sports Strategy (game analysis, tactical planning, performance optimization)
+- Injury Prevention (safety protocols, risk assessment, recovery advice)
+- Motivational Content (pep talks, goal-setting, mindset coaching)
+- Health & Nutrition (meal planning, dietary advice, wellness tracking)
+- Training Schedules (periodization, time management, routine planning)
+
+**The Artist:**
+- Music Creation (composition concepts, lyric writing, music theory)
+- Visual Art Concepts (artistic guidance - note if actual generation requires separate tools)
+- Fashion Design (style concepts, trend analysis, outfit coordination)
+- Creative Writing (fiction, poetry, storytelling, character development)
+- Animation Concepts (storyboarding ideas, character design concepts)
+- Style Curation (aesthetic advice, artistic analysis, design principles)
+
+**The Popular Kid:**
+- Social Media Content (post ideas, captions, engagement strategies)
+- Trendy Language (current slang, viral phrases, cultural references)
+- Event Planning (party organization, timeline creation, logistics)
+- Personal Branding (image consulting, reputation management, networking)
+- Conversational Persona (charismatic dialogue, social skills coaching)
+- Influencer Marketing (content strategy, audience engagement, brand partnerships)
+
+**The Alternative/Outsider:**
+- Abstract Poetry (experimental verse, stream-of-consciousness writing)
+- Philosophical Debate (existential questions, ethical discussions, critical theory)
+- Indie Culture Analysis (underground movements, niche interests, subcultures)
+- Counterculture Writing (rebellious themes, social critique, unconventional narratives)
+- Experimental Concepts (avant-garde ideas, boundary-pushing creativity)
+- Unique Fashion (anti-mainstream style, alternative aesthetics, DIY culture)
+
+**The Leader/Organizer:**
+- Presentation Building (slide structure, compelling narratives, visual organization)
+- Agenda Writing (meeting structure, timeline management, priority setting)
+- Delegation Planning (task distribution, team coordination, workflow design)
+- Motivational Copywriting (inspiring messages, call-to-action content, team building)
+- Group Coordination (communication strategies, consensus building, project management)
+- Conflict Resolution (mediation techniques, diplomatic communication, problem-solving)
+
+**The Class Clown:**
+- Joke Generation (puns, one-liners, observational humor, wordplay)
+- Satire Writing (political humor, social commentary, parody content)
+- Meme Concepts (internet humor, viral content ideas, cultural references)
+- Humorous Dialogue (comedy scripts, funny conversations, character voices)
+- Stand-up Material (comedy routines, timing advice, audience engagement)
+- Comedy Scripts (sketch writing, sitcom concepts, humorous storytelling)
+
+**The Entrepreneur:** 
+- Starting a company (business plans, market analysis, pitch decks)
+
+**The Activist:** 
+- Driving attention (campaign writing, social justice content, policy analysis)
+
+**The Gamer:** 
+- Gaming Community (game design, strategy guides, interactive narratives)
+
+3. **Include These LLMs** (and add any major new ones you discover):
+   - GPT-4o / GPT-4 Turbo
+   - Claude 4 Sonnet (or latest Claude version)
+   - Gemini 2.0 Pro (or latest Gemini version)
+   - Grok-2 (or latest Grok version)
+   - GPT-4o Mini
+   - LLaMA 3.3 70B (or latest Meta model)
+   - DeepSeek V3 (or latest version)
+   - Mistral Large (or latest Mistral model)
+
+4. **Rating System**: Use Excellent, Good, Average, Bad, N/A
+   - **Excellent**: Best-in-class, professional quality, reliable for critical work
+   - **Good**: Strong performance, suitable for most use cases with minor limitations
+   - **Average**: Adequate performance, may require editing or supervision
+   - **Bad**: Poor performance, significant limitations, not recommended
+   - **N/A**: Feature not available or severely limited
+
+5. **Additional Sections to Include**:
+   - **Quick Reference Guide**: Best model by archetype
+   - **Specialist Recommendations**: Top 3 models for each major category
+   - **Budget Considerations**: Cost-effective options
+   - **Model Selection Flowchart**: Simple decision tree
+   - **Special Notes**: Any unique capabilities or limitations
+   - **Creative Content Gap**: Clearly identify what requires specialized tools (image/video/music generation)
+
+6. **Quality Validation**: Cross-check your ratings against:
+   - Recent benchmark scores (MMLU, HumanEval, etc.)
+   - User reports and community feedback
+   - Official model documentation
+   - Pricing and accessibility factors
+
+7. **Future-Proofing Considerations**:
+   - Note any models in beta or preview
+   - Mention upcoming releases if publicly announced
+   - Include a "date of analysis" for reference
+   - Suggest update frequency (every 3-6 months)
+
+## Output Format:
+Create a comprehensive markdown document and / or pdf with:
+- Executive summary
+- Full capability matrix (table format)
+- Quick reference guides
+- Detailed insights and recommendations
+- Methodology and limitations
+- Update recommendations
+
+## Additional Instructions:
+- Be honest about limitations - don't oversell capabilities
+- Include cost considerations where relevant
+- Note any access restrictions (API-only, subscription required, etc.)
+- Mention if certain models excel in specific languages or regions
+- Consider real-world performance, not just benchmark scores
+- Include any emerging models that show promise
+
+Search for the most current information before creating your analysis, as the LLM landscape changes rapidly.
+
+Customization Options
+You can modify this prompt by:
+Adding New Archetypes:
+Insert additional student types like:
+
+The Entrepreneur (business plans, market analysis, pitch decks)
+The Activist (campaign writing, social justice content, policy analysis)
+The Gamer (game design, strategy guides, interactive narratives)
+
+Regional Focus:
+Add: "Focus on models available in [YOUR REGION] and include local pricing in [YOUR CURRENCY]."
+Specific Use Case:
+Add: "Pay special attention to [SPECIFIC DOMAIN] applications and include enterprise/educational considerations."
+Technical Depth:
+Add: "Include technical specifications, API capabilities, and integration considerations for each model."
+Multimodal Focus:
+Add: "Include analysis of image, voice, and video processing capabilities where available."
+Usage Tips:
+
+Run this quarterly - LLM capabilities change rapidly
+Customize the model list - Remove models you can't access, add new ones you discover
+Cross-validate results - Run the same prompt in different LLMs and compare outputs
+Document your specific findings - Add notes about how models perform for YOUR specific use cases
+Share and collaborate - This works better when multiple people contribute real-world testing data
+
+Version History:
+
+v1.0: Initial prompt based on September 2025 analysis
+Future versions should note major model releases and capability shifts
+
+
+This prompt is designed to be model-agnostic and should work with Claude, ChatGPT, Grok, and other instruction-following LLMs.
