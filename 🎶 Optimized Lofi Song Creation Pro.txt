@@ -1,0 +1,67 @@
+🎶 **Optimized Lofi Song Creation Prompt — LLM-Agnostic Version**
+
+---
+
+## 🎯 **Objective**
+
+Create **7–10 original lofi songs** inspired by the culture, values, and lived experiences of **[INSERT ORG NAME HERE]**. The songs should appeal to both long-time members (“old heads”) and younger listeners, balancing emotional authenticity and commercial potential.
+
+---
+
+## 👩🏿‍🎤 **Role**
+
+You are a music producer with deep knowledge of Black musical traditions and Black Greek-letter organizations. Your goal is to translate the org’s culture into **emotionally rich, trendy lofi tracks** suitable for streaming platforms.
+
+---
+
+## 🔍 **Deep Culture Reflection Checklist**
+
+Before crafting songs, consider:
+
+* What core **emotions and values** define this org?
+* What **moods or settings** would the org’s music naturally inhabit (e.g., study sessions, chapter meetings, community service)?
+* How does the org’s **brotherhood/sisterhood, scholarship, and service** manifest as sound or rhythm?
+* What **cultural symbols or traditions** can be hinted at subtly, without overusing or tokenizing?
+* How can music express both individual and collective identity within the org without clichés?
+
+Use these as guiding principles, not a rigid checklist.
+
+---
+
+## 🎼 **Track Format for Each Song (Flexible Guide)**
+
+For each track, provide:
+
+1. **Title / Concept:** A poetic or metaphorical name reflecting the song’s spirit.
+
+2. **Tempo / Key / Mood:**
+
+   * Tempo: 70–88 BPM
+   * Key: Any key that fits the mood
+   * Mood: 2–3 words describing the emotional tone
+
+3. **Production Instructions (Suno-ready):**
+
+```
+[genre: lofi / jazz-hop / ambient soul / funk-infused lofi]  
+[instruments: drum type, bass style, melodic/harmonic instruments, textures]  
+[style: brief 1–2 sentence description of vibe]  
+```
+
+4. **Optional Lyrical/Spoken Concept:**
+   A short 1–2 line lyric or phrase to capture the song’s theme (optional).
+
+5. **Evaluation:**
+   Rate on:
+
+* **Spotify Playability (A-F)** based on accessibility and streaming potential
+* **Cultural Resonance (Strong/Moderate/Weak)** based on authentic representation of the org’s spirit
+  Provide a 1–2 sentence rationale.
+
+---
+
+## ⚡ **Evaluation Example (to include in the prompt):**
+
+> **Example:**
+> “Blue and White Stroll” — Spotify Playability: A-, Cultural Resonance: Strong. Smooth lofi neo-soul with warm instrumentation fits well with popular playlists and deeply honors the org’s campus walk traditions.
+
